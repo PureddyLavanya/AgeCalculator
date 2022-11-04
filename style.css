@@ -1,0 +1,27 @@
+body{
+    padding:20px;
+   }
+  .center{
+  background-color: lightblue;
+  height:400px;
+  position:absolute;
+  padding:15px;
+      width: 400px;
+      position: absolute;
+      transform: translate(-50%,-50%);
+  text-align:center;
+      top: 40%;
+  left: 50%;
+  border-radius: 5px;
+  font-family: 'Poppins',sans-serif;
+  box-shadow: 25px 25px 30px rgba(0,0,0,0.15);
+  border:6px solid purple;
+  border-radius:10px;
+  align-items:center;
+  }
+  h3{
+    color:brown;
+  }
+  p{
+    color:mediumslateblue;
+  }
